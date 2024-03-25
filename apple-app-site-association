@@ -1,0 +1,14 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "A3D3F364BC.org.kusc.player",
+          "paths": [
+            "NOT /_/*",
+            "/*"
+          ]
+        }
+      ]
+    }
+}
